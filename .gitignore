@@ -1,0 +1,4 @@
+/[0-9]*
+/pack
+/misc
+.DS_Store
